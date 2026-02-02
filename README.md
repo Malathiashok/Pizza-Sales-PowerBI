@@ -29,3 +29,14 @@ This project analyzes pizza sales data using Power BI to uncover insights relate
 1. Download the `.pbix` file
 2. Open it in Power BI Desktop
 3. Refresh data if required
+
+
+
+## SQL Analysis
+The dataset was first analyzed using SQL to answer business questions such as:
+- Total revenue and total orders
+- Best and worst selling pizzas
+- Sales by category and size
+- Monthly sales trends
+
+SQL was used for aggregation, filtering, grouping, and ranking before visualizing insights in Power BI.
