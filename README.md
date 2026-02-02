@@ -33,10 +33,10 @@ This project analyzes pizza sales data using Power BI to uncover insights relate
 
 
 ## SQL Analysis
-The dataset was first analyzed using SQL to answer business questions such as:
+SQL was used to independently validate and cross-check key business metrics such as:
 - Total revenue and total orders
 - Best and worst selling pizzas
 - Sales by category and size
 - Monthly sales trends
 
-SQL was used for aggregation, filtering, grouping, and ranking before visualizing insights in Power BI.
+The same logic and results were verified in Power BI using DAX to ensure data accuracy and consistency acros
